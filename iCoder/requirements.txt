@@ -7,7 +7,7 @@ cx-Logging==3.0
 decorator==4.4.1
 defusedxml==0.6.0
 Django==3.2.6
-dlib==19.22.0
+
 
 
 oauth2client==4.1.3
